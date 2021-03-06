@@ -1,3 +1,3 @@
-module github.com/teojee/gridgetv4
+module teejee.com/wasm/url
 
-go 1.16
+go 1.15
